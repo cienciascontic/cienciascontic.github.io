@@ -8,15 +8,16 @@ Markdown es una sintaxis ligera y fácil de usar para diseñar un sitio.
 ## Encabezado 2
 ### Encabezado 3
 
-- Bullets
-- Lista
+- Bullet 1
+- Bullet 2
 
-1. Numerada
-2. Lista
+1. Lista
+2. Numerada
 
-**Negrita** e _Itálica_ y texto de `Código`
+**Negrita** e _Itálica_ y texto tipo `Código`
 
 Esto es un enlace: [Hacer clic acá para acceder](http://www.recursostic.info)
+
 y esto una imagen vinculada desde la web: ![Imagen](https://i.imgur.com/uAgexZy.png)
 
 
@@ -28,4 +29,4 @@ El sitio de Pages utiliza el diseño y los estilos del tema Jekyll seleccionados
 
 ### Ayuda o contacto
 
-Para obtener ayuda sobre Pages ver la siguiente [documentation](https://help.github.com/categories/github-pages-basics/) o [contact support](https://github.com/contact).
+Para obtener ayuda sobre Pages, ver la siguiente [documentación](https://help.github.com/categories/github-pages-basics/) o [contactar a soporte](https://github.com/contact).
