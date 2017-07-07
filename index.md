@@ -2,7 +2,7 @@
 
 Esto es un sitio de prueba diseñando utilizando Markdown.
 
-Markdown es una sintaxis ligera y fácil de usar para diseñar su escritura. 
+Markdown es una sintaxis ligera y fácil de usar para diseñar un sitio. 
 
 # Encabezado 1
 ## Encabezado 2
@@ -11,10 +11,10 @@ Markdown es una sintaxis ligera y fácil de usar para diseñar su escritura.
 - Bullets
 - Lista
 
-1. Nuerada
+1. Numerada
 2. Lista
 
-**Bold** and _Italic_ and `Code` text
+**Negrita** e _Itálica_ y texto de `Code`
 
 [Link](url) and ![Image](src)
 ```
