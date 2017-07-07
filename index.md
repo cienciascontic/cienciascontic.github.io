@@ -16,8 +16,8 @@ Markdown es una sintaxis ligera y fácil de usar para diseñar un sitio.
 
 **Negrita** e _Itálica_ y texto de `Código`
 
-Esto es un enlace: [Link](http://www.recursostic.info)
-y esto una imagen vinculada desde la web: ![Image](https://i.imgur.com/uAgexZy.png)
+Esto es un enlace: [Hacer clic acá para acceder](http://www.recursostic.info)
+y esto una imagen vinculada desde la web: ![Imagen](https://i.imgur.com/uAgexZy.png)
 
 
 Para más detaller ver [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
