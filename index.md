@@ -1,25 +1,18 @@
-## Bienvenido a GitHub Pages
+## Bienvenido a mi página en GitHub Pages
 
-Se puede usar el [editor on GitHub](https://github.com/crizzi/crizzi.github.io/edit/master/index.md) Para mantener y previsualizar el contenido de su sitio web en los archivos de Markdown.
+Esto es un sitio de prueba diseñando utilizando Markdown.
 
-Cada vez que hagamos commit en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas del sitio, desde el contenido de sus archivos de Markdown.
+Markdown es una sintaxis ligera y fácil de usar para diseñar su escritura. 
 
-### Markdown
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
 
-Markdown Markdown es una sintaxis ligera y fácil de usar para diseñar su escritura. Incluye convenciones para
+- Bullets
+- Lista
 
-```markdown
-Sintaxis de código de bloque resaltado
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Nuerada
+2. Lista
 
 **Bold** and _Italic_ and `Code` text
 
