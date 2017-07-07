@@ -18,7 +18,7 @@ Markdown es una sintaxis ligera y fácil de usar para diseñar un sitio.
 
 Esto es un enlace: [Hacer clic acá para acceder](http://www.recursostic.info)
 
-y esto una imagen vinculada desde la web: ![Imagen](https://i.imgur.com/uAgexZy.png)
+y esto una imagen vinculada desde la web: ![Imagen](https://i.imgur.com/alzOkfW.png)
 
 
 Para más detaller ver [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
